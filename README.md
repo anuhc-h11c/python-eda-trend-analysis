@@ -28,6 +28,3 @@ A sample sales dataset created for learning and demonstration purposes.
 
 ## Outputs
 The output folder contains the cleaned dataset, missing-value summary, sales summaries, and charts.
-
-## Author
-Anupama Hanumagouda Chinnikatti
